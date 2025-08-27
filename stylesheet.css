@@ -1,0 +1,90 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,100..900;1,100..900&family=Poiret+One&display=swap');
+
+@import url('https://fonts.googleapis.com/css2?family=Libre+Franklin:ital,wght@0,100..900;1,100..900&family=Montserrat:ital,wght@0,100..900;1,100..900&family=Poiret+One&display=swap');
+
+
+ 
+header{
+    background-image: url(img/peteribi.jpg)  ; /* ruta de la imagen */
+  background-repeat: no-repeat;           /* evita que se repita */
+  background-size: cover;                 /* la ajusta para cubrir toda la pantalla */
+  background-position: center;   
+    padding: 100px
+    ;
+    text-align: center
+    
+}
+header h1{
+
+  font-family: sans-serif,Arial, Helvetica, sans-serif;
+  font-weight: normal;
+  font-style: normal;
+   color: rgba(235, 235, 235, 0.774);
+}
+header .pfp{
+    height: 300px;
+    width: 300px;
+    border-radius: 600px;
+    background-image: url(img/icon.jpg);
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-size: 114%;
+    margin: 0 auto;
+}
+
+main{
+    width: 800px;
+    margin: 50px auto;
+
+}
+main img{
+
+width: 600px;
+padding-left: 11%;
+text-align: center;
+}
+
+p{
+    margin-top: 0% ;
+    font-size: 18px;
+    color: #918b7e;
+    text-align: center;
+}
+a{
+    color: aliceblue;
+    font-size: larger;
+    font-weight: 700;
+}
+main video{
+
+    text-align: center;
+    padding: 90px;
+    margin-top: -78px;
+
+   
+}
+ h3
+{margin-top: 0% ;
+    font-size: 18px;
+    color: #918b7e;
+    text-align: center;}
+h4{
+       margin-top: -3%;
+    text-align: center;
+color: rgb(94, 78, 54);
+ font-weight: bold;
+}
+
+
+footer{
+   background-image: url(img/peteribi.jpg);
+    margin: 0 auto;
+    text-align: center;
+    padding: 80px;
+    
+}
+h5{
+    font-size: x-large;
+    color: white;
+}
